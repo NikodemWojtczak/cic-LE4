@@ -124,7 +124,7 @@ The 2.3x additional improvement (887.81s → 384.09s) from graph optimization de
 
 ## Conclusions
 
-This MC successfully demonstrates Dask's effectiveness for large-scale data processing with clear quantitative benefits:
+This MCd successfully demonstrates Dask's effectiveness for large-scale data processing with clear quantitative benefits:
 
 - **Base Parallelization**: 5.26x speedup through distributed computing
 - **Graph Optimization**: Additional 2.3x improvement through strategic materialization
